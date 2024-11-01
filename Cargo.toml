@@ -7,7 +7,6 @@ authors = ["Ali Karami"]
 readme = "README.md"
 repository = "https://github.com/1alii/elf64"
 license = 'GPL-2.0-only'
-license-file = "LICENSE"
 keywords = ["elf", "binary", "object", "parser"]
 
 [dependencies]
