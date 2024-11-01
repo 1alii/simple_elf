@@ -1,5 +1,5 @@
 [package]
-name = "elf64"
+name = "simple_elf"
 version = "0.1.0"
 edition = "2021"
 description = "simple parser for amd64 elf files"
