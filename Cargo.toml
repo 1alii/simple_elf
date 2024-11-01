@@ -2,6 +2,13 @@
 name = "elf64"
 version = "0.1.0"
 edition = "2021"
+description = "simple parser for amd64 elf files"
+authors = ["Ali Karami"]
+readme = "README.md"
+repository = "https://github.com/1alii/elf64"
+license = 'GPL-2.0-only'
+license-file = "LICENSE"
+keywords = ["elf", "binary", "object", "parser"]
 
 [dependencies]
 enumflags2 = { version = "0.7.10", features = ["serde"] }
