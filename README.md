@@ -1,5 +1,5 @@
 [![Crates.io](https://img.shields.io/crates/v/simple_elf.svg)](https://crates.io/crates/simple_elf)
-
+[![Docs.rs](https://docs.rs/simple_elf/badge.svg)](https://docs.rs/simple_elf)
 simple parser for amd64 elf files based on
 
   https://refspecs.linuxfoundation.org/
