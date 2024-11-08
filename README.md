@@ -39,7 +39,10 @@ fn main() {
 
 ```
 
-## 📖 furthor readings
+## 📖 further readings
 
  - https://refspecs.linuxfoundation.org/
     it includes elf64 specification and x86 abi document that are used to implement this crate
+
+## 🤝 Contributing Guidelines
+ any contribution are wellcome
